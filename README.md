@@ -1,2 +1,2 @@
 # odin-recipes
-The first project from TOP
+This is my take on the first project from TOP
